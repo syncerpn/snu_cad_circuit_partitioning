@@ -1,5 +1,7 @@
-Introduction to Computer-Aided Design
-Term Project Submission
+# SNU Introduction to Computer-Aided Design
+Fall 2018
+
+Term Project: Circuit Partitioning
 
 Team 5:
 - Nguyen Duy Thanh  : 2017-31828
